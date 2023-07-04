@@ -1,6 +1,0 @@
-﻿  Test_ReturnCode_01.cpp
-  Generating code
-  Previous IPDB not found, fall back to full compilation.
-  All 170 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Finished generating code
-  Test_ReturnCode_01.vcxproj -> D:\Projects\InterprocessCommunication\x64\Release\Test_ReturnCode_01.exe
